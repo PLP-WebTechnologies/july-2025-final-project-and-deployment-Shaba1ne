@@ -39,7 +39,4 @@ if (contactForm) {
   });
 }
 
-// ===============================
-// Additional Interactivity Example
-// ===============================
-// You could add sliders, image galleries, or other JS features here
+
